@@ -1,12 +1,13 @@
 
 import './App.css'
-import Counter from './component/Counter'
+import TodoList from './component/todoList'
+
 
 function App() {
 
   return (
     <>
-    <Counter/>
+    <TodoList/>
     </>
   )
 }
